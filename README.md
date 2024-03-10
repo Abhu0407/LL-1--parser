@@ -15,4 +15,4 @@ Grammar file contains all the productions for the grammar.
   Any other character is taken as a terminal for the grammar
 
 Need pakages are 
-  tabulate librari in python
+  tabulate libraries in python
